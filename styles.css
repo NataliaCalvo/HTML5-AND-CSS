@@ -8,7 +8,12 @@ h2 {
     margin-left: 500px;
     margin-right: 400px;
   }
-  
+
+  .div {
+    margin-left: 60px;
+    margin-right: 40px;
+  }
+
   .parrafo{
    display: inline;
    text-align:end;  
@@ -16,12 +21,14 @@ h2 {
 
 }
   .img {
-    width: 105px;
+    width: 125px;
     height: 150px;
     float:left;
-  }
+    
+}
   .img2 {
-    width: 90px;
+    width: 100px;
     height: 120px;
     float: left;
+    padding-right: 34px;
   }
