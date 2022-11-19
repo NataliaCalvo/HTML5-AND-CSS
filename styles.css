@@ -17,6 +17,7 @@ h2 {
   .parrafo{
    display: inline;
    text-align:end;  
+   hyphens:auto;
 
 
 }
