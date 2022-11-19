@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.fondo {
+    background-image: url(./joseph_mallord_william_turner_-_fishermen_at_sea_-_google_art_project.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+h1 {
+font-size: 60px;
+padding-top: 20px;
+text-align: center;
+}
+
+.caja-padre {
+height: 300px;
+max-width: 700px;
+padding: 30px 175px;
+display: grid;
+margin:0% auto;
+}
+
+.titulo1 {
+    background-color: green;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 7;
+}
+
+.color1 {
+    background-color: black;
+    grid-column-start: 1;
+    grid-column-end: 2;  
+}
+.color2 {
+    background-color:teal;
+    grid-column-start: 2;
+    grid-column-end: 3;  
+}
+.color3 {
+    background-color:blue;
+    grid-column-start: 3;
+    grid-column-end: 4;  
+}
+.color4 {
+    background-color:navy;
+    grid-column-start: 4;
+    grid-column-end: 5;  
+}
+.color5 {
+    background-color:lime;
+    grid-column-start: 5;
+    grid-column-end: 6;  
+}
+.color6 {
+    background-color:white;
+    grid-column-start: 6;
+    grid-column-end: 7;  
+}
+.color7 {
+    background-color: purple;
+    grid-column-start: 1;
+    grid-column-end: 2;  
+}
+.color8 {
+    background-color: yellow;
+    grid-column-start: 2;
+    grid-column-end: 3;  
+}
+.color9 {
+    background-color:olive;
+    grid-column-start: 3;
+    grid-column-end: 4;  
+}
+.color10 {
+    background-color:red;
+    grid-column-start: 4;
+    grid-column-end: 5;  
+}
+.color11 {
+    background-color:black;
+    grid-column-start: 5;
+    grid-column-end: 6;  
+}
+.color12 {
+    background-color:gray;
+    grid-column-start: 6;
+    grid-column-end: 7;  
+}
+.color13 {
+    background-color:olive;
+    grid-column-start: 1;
+    grid-column-end: 2;  
+}
+.color14 {
+    background-color:red;
+    grid-column-start: 2;
+    grid-column-end: 3;  
+}
+.color15 {
+    background-color:fuchsia;
+    grid-column-start: 3;
+    grid-column-end: 4;  
+}
+.color16 {
+    background-color:green;
+    grid-column-start: 4;
+    grid-column-end: 7;  
+}
+h2{
+    padding-top: 1px;
+ font-size: 50px;   
+ color: rgb(0, 0, 0);
+ text-align: center;
+
+}
+
+.texto-colores {
+    text-align: center;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-template-rows: auto auto;
+    margin: 0% auto;
+    max-width: 700px;
+    height: 130px;
+    padding: 30px 175px;
+    display: grid;  
+}
+.black{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+.teal{
+   color: teal;
+    font-size: 30px;
+    font-weight: bold; 
+}
+.blue{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;   
+}
+.navy{
+    color: navy;
+    font-size: 30px;
+    font-weight: bold;
+}
+.lime{
+    color: lime;
+    font-size: 30px;
+    font-weight: bold;
+}
+.white{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.purple{
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+}
+.yellow{
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+}
+.olive{
+    color: olive;
+    font-size: 30px;
+    font-weight: bold;
+}
+.red{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brown{
+    color: rgb(142, 80, 42);
+    font-size: 30px;
+    font-weight: bold;
+}
+.gray{
+    color: gray;
+    font-size: 30px;
+    font-weight: bold;
+}
+.fuchsia{
+    color: fuchsia;
+    font-size: 30px;
+    font-weight: bold;
+}
+.green{
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
+.aqua{
+    color: aqua;
+    font-size: 30px;
+    font-weight: bold; 
+}
+.silver{
+    color: silver;
+    font-size: 30px;
+    font-weight: bold;
+ }     
