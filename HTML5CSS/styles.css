@@ -1,0 +1,35 @@
+h2 {
+    background-color: grey;
+  }
+  h1 {
+    text-align: center;
+  }
+  body {
+    margin-left: 500px;
+    margin-right: 400px;
+  }
+
+  .div {
+    margin-left: 60px;
+    margin-right: 40px;
+  }
+
+  .parrafo{
+   display: inline;
+   text-align:end;  
+   hyphens:auto;
+
+
+}
+  .img {
+    width: 125px;
+    height: 150px;
+    float:left;
+    
+}
+  .img2 {
+    width: 100px;
+    height: 120px;
+    float: left;
+    padding-right: 34px;
+  }
